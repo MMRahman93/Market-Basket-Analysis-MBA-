@@ -1,4 +1,4 @@
-# Market-Basket-Analysis-MBA-
+# Market-Basket-Analysis (MBA)
 Market Basket Analysis for Consumer Items, Where the Customers are Dealers and Distributors of the Company
 This project presents a comprehensive analysis of retail sales data using Market Basket Analysis (MBA), a powerful technique widely used in data science and retail analytics. The goal of MBA is to identify associations between items frequently purchased together, providing valuable insights for product placement, cross-selling, and marketing strategies.
 
